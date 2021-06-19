@@ -4,7 +4,7 @@ This is submitted against the Kaggle Contest mentioned below.
 
 -----
 
-# Kannada MNIST Challenge (https://www.kaggle.com/c/Kannada-MNIST)
+# [Kannada MNIST Challenge](https://www.kaggle.com/c/Kannada-MNIST)
 
 ## Problem statement
     The data files train.csv and test.csv contain gray-scale images of hand-drawn digits, from zero through nine, in the Kannada script.
